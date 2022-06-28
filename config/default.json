@@ -1,0 +1,5 @@
+{
+    "mongoURL": "mongo db url",
+                
+    "baseURL": "http://localhost:5000/"
+}

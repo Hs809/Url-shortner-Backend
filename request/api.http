@@ -1,0 +1,6 @@
+POST http://localhost:5000/api/url/shorten
+Content-Type: application/json
+
+{
+    "longUrl": "https://www.amazon.in/xpert-Sports-Running-Outdoor-Designer/dp/B09JKR3QW3/?_encoding=UTF8&pd_rd_w=pg4k9&pf_rd_p=ee853eb9-cee5-4961-910b-2f169311a086&pf_rd_r=AXWBBXMC40ANQW839G52&pd_rd_r=999866f2-6ee4-44f1-803e-e39c0d81cd43&pd_rd_wg=AO764&ref_=pd_gw_ci_mcx_mr_hp_atf_m&th=1&psc=1"
+}
